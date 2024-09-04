@@ -1,0 +1,17 @@
+.card:hover {
+    background: #c9c9c9;
+    transition: all .3s;
+    cursor: pointer;
+}
+
+section{
+    width: max-content;
+    padding: 10px;
+    border: 1px solid #f00f00;
+    border-radius: 10px;
+    margin: auto;
+}
+section:hover{
+    background-color: #f00f00;
+    transition: all .3s;
+}
